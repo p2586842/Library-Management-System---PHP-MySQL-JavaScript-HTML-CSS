@@ -1,0 +1,2 @@
+# Library-Management-System---PHP-MySQL-JavaScript-HTML-CSS
+this is my website ,A web-based Library Management System built using vanilla PHP for server-side logic, MySQL for database management, JavaScript for client-side interactivity, and HTML/CSS for responsive UI design. The system includes user authentication, an admin dashboard for managing books, and features such as book borrowing and returning. 
